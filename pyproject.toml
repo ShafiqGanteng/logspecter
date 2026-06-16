@@ -1,0 +1,15 @@
+[project]
+name = "logspecter"
+version = "0.1.0"
+
+dependencies = [
+    "click",
+    "rich",
+    "pandas",
+    "numpy",
+    "jinja2",
+    "watchdog"
+]
+
+[project.scripts]
+logspecter = "logspecter.cli:cli"

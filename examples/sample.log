@@ -1,0 +1,9 @@
+2026-01-01 INFO Server started
+
+2026-01-01 INFO Login success 192.168.1.10
+
+2026-01-01 ERROR Database timeout
+
+2026-01-01 WARNING Disk usage high
+
+2026-01-01 CRITICAL Connection lost 10.0.0.5
